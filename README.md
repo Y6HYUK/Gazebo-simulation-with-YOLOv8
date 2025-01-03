@@ -1,4 +1,9 @@
 # Gazebo Simulation with YOLOv8
+## Demo
+[Click to watch the video](https://www.youtube.com/watch?v=_ROxLggRWa8)
+
+![Screenshot from 2025-01-03 20-12-47](https://github.com/user-attachments/assets/dff7d288-9aa2-4c0e-b38b-612ec7779e2f)
+![Screenshot from 2025-01-03 20-13-07](https://github.com/user-attachments/assets/53cc610f-6266-4f28-a8a2-57a713b6c932)
 
 ## Introduction
 Gazebo Simulation with YOLOv8는 ROS2 Humble과 Gazebo를 사용하여 시뮬레이션 환경에서 실시간 CCTV 카메라 피드를 PyQt5 GUI로 시각화하고, YOLOv8을 통해 객체 탐지를 수행하는 프로젝트입니다.
